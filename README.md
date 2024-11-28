@@ -1,16 +1,16 @@
 # pr_6
+# Description:
 
-A new Flutter project.
+👉Imports and Setup: Import necessary packages (flutter/material.dart) and set up a basic Flutter app (PlanetsApp) with an app bar and a main widget (PlanetDetails).
 
-## Getting Started
+✨AnimatedContainer: Inside PlanetDetails, use AnimatedContainer as the main widget. It animates changes to its properties like width, height, and borderRadius based on _isLarge state.
 
-This project is a starting point for a Flutter application.
+✨State Management: _PlanetDetailsState manages the _isLarge boolean state. Tapping on the container toggles _isLarge, triggering the animation due to setState().
 
-A few resources to get you started if this is your first Flutter project:
+✨GestureDetector: Wraps the AnimatedContainer to detect taps and call _toggleSize to change _isLarge.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✨Animation Properties: duration specifies how long the animation should take (1 second in this case), and curve defines the animation's speed curve (here, Curves.fastOutSlowIn for a smooth transition).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✨Decoration and Child: AnimatedContainer decorates with a blue color and rounded corners (borderRadius). Its child (Text) changes based on _isLarge state.
+
+This example demonstrates a basic use of animation with AnimatedContainer in Flutter, which you can adapt and expand upon for your planets app.
