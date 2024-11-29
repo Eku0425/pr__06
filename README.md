@@ -1,4 +1,6 @@
 # pr_6
+# 🚀 🌌 Space App: Explore the Cosmos
+
 # Description:
 
 👉Imports and Setup: Import necessary packages (flutter/material.dart) and set up a basic Flutter app (PlanetsApp) with an app bar and a main widget (PlanetDetails).
@@ -14,3 +16,10 @@
 ✨Decoration and Child: AnimatedContainer decorates with a blue color and rounded corners (borderRadius). Its child (Text) changes based on _isLarge state.
 
 This example demonstrates a basic use of animation with AnimatedContainer in Flutter, which you can adapt and expand upon for your planets app.
+
+<img src="https://github.com/user-attachments/assets/0cdbd189-7cc9-42df-ab98-d96f441e1896" height =25% width=25%>
+<img src="https://github.com/user-attachments/assets/7ab592ac-b034-4ba2-879a-49dc7fb67f1b" height =25% width=25%>
+<img src="https://github.com/user-attachments/assets/0351fff2-99ef-4012-941b-866f80dc4856" height =25%  width=25%>
+
+https://github.com/user-attachments/assets/9c932158-dcb8-4d32-ab1c-b43312470145
+
