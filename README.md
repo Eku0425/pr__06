@@ -1,5 +1,5 @@
 # pr_6
-# 🚀 🌌 Space App: Explore the Cosmos
+# 🚀 🌌 Space App: 
 
 # Description:
 
@@ -21,5 +21,5 @@ This example demonstrates a basic use of animation with AnimatedContainer in Flu
 <img src="https://github.com/user-attachments/assets/7ab592ac-b034-4ba2-879a-49dc7fb67f1b" height =25% width=25%>
 <img src="https://github.com/user-attachments/assets/0351fff2-99ef-4012-941b-866f80dc4856" height =25%  width=25%>
 
-https://github.com/user-attachments/assets/9c932158-dcb8-4d32-ab1c-b43312470145
+
 
