@@ -23,3 +23,7 @@ This example demonstrates a basic use of animation with AnimatedContainer in Flu
 
 
 
+https://github.com/user-attachments/assets/9aca4ff1-8c8e-4c53-a593-f45d770d2e1d
+
+
+
